@@ -10,25 +10,25 @@ export default function ComingSoon() {
                 </p>
             </div>
             <div className="coming-soon-signup-section">
-                <p>
-                # Coming Soon: Knap
+                
+                <h1 className="coming-soon-header">Coming Soon: Knap</h1>
 
-                ## Keep Your Habits on Track
+                <h2>Keep Your Habits on Track</h2>
 
-                Say hello to **Knap**! It’s a fun, low-tech button that helps you remember your daily tasks. When Knap shows red, it’s a gentle reminder to get things done. Press it, and it turns green, signaling you're all set.
+                <p>Say hello to <b>Knap</b>! It’s a fun, low-tech button that helps you remember your daily tasks. When Knap shows red, it’s a gentle reminder to get things done. Press it, and it turns green, signaling you're all set.</p>
 
-                ### How It Works
+                <h3>How It Works</h3>
 
-                - **Red**: Time to do your task.
-                - **Green**: Task done!
+                <p><b>Red</b>: Time to do your task.</p>
+                <p><b>Green</b>: Task done!</p>
 
-                No apps, no fuss, just a friendly nudge. Knap makes it easy to stay on top of your goals.
+                <p>No apps, no fuss, just a friendly nudge. Knap makes it easy to stay on top of your goals.</p>
 
-                ### Stay in the Loop
+                <h3>Stay in the Loop</h3>
 
-                Enter your email below to receive updates and launch notifications. Don’t miss out!
+                <p>Enter your email below to receive updates and launch notifications. Don’t miss out!</p>
 
-                </p>
+                
             </div>
 
         </div>

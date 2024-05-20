@@ -32,5 +32,10 @@
 .coming-soon-signup-section {
   /* Background color to see spacing - Delete*/
   background-color: beige;
+  text-align: left;
+}
+
+.coming-soon-header {
+  text-align: center;
 }
 
