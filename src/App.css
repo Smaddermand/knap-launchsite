@@ -1,12 +1,8 @@
-/* Remeber to clear boilerplate */
-
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
   text-align: center;
-  /* below background color is just to get a reference of sizing, etc --> To be deleted */
-  background-color: #fff1e8; 
+  
 }
 
 .app {
@@ -18,12 +14,23 @@
   height: 100px;
   background-color: white;
   text-align: center;
+  
 }
 
 .coming-soon {
   display: flex;
   flex-direction: row;
   background-color: #EEE5D2;
-  
+  justify-content: space-between; 
+}
+
+.coming-soon-image-section {
+  /* Background color to see spacing - Delete*/
+  background-color: antiquewhite;
+}
+
+.coming-soon-signup-section {
+  /* Background color to see spacing - Delete*/
+  background-color: beige;
 }
 
